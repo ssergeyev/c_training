@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//gradin algorithm
+
 int gradin(int n){
 	int counter = 0;
 	int tmp;
