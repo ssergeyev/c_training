@@ -13,8 +13,8 @@
   ```
   Файл журнала
   
-  ```log
-  [    0.000000] Linux version 5.4.22 (root@vpn64_etalon) (gcc version 5.3.0 (CRUX-x86_64-multilib)) #1 SMP Tue Jun 30 22:08:21 ALMT 2020
+  ```
+[    0.000000] Linux version 5.4.22 (root@vpn64_etalon) (gcc version 5.3.0 (CRUX-x86_64-multilib)) #1 SMP Tue Jun 30 22:08:21 ALMT 2020
 [    0.000000] Command line: BOOT_IMAGE=/boot/bzImage ro quiet
 [    0.000000] x86/fpu: x87 FPU will use FXSAVE
 [    0.000000] BIOS-provided physical RAM map:
